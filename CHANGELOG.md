@@ -1,3 +1,53 @@
+# [4.12.0-dev.5](https://github.com/ReVanced/revanced-patches/compare/v4.12.0-dev.4...v4.12.0-dev.5) (2024-07-20)
+
+
+### Features
+
+* Add `Hide mock location` patch ([#3417](https://github.com/ReVanced/revanced-patches/issues/3417)) ([5f81b40](https://github.com/ReVanced/revanced-patches/commit/5f81b40e7d5567fb5689d08ccc9caeaa267c3143))
+* **Google Photos:** Add `GmsCore support` patch ([#3414](https://github.com/ReVanced/revanced-patches/issues/3414)) ([24528e0](https://github.com/ReVanced/revanced-patches/commit/24528e0a6eec17ce0a3c52f8862585933615ad28))
+
+# [4.12.0-dev.4](https://github.com/ReVanced/revanced-patches/compare/v4.12.0-dev.3...v4.12.0-dev.4) (2024-07-20)
+
+
+### Features
+
+* **Google News:** Add `Enable CustomTabs` and `GmsCore support` patch ([#3111](https://github.com/ReVanced/revanced-patches/issues/3111)) ([ad59096](https://github.com/ReVanced/revanced-patches/commit/ad590962275f888b335252ad5bed0f34e959d3c7))
+
+# [4.12.0-dev.3](https://github.com/ReVanced/revanced-patches/compare/v4.12.0-dev.2...v4.12.0-dev.3) (2024-07-18)
+
+
+### Bug Fixes
+
+* **Instagram - Hide ads:**  Restore compatibility with latest version by fixing fingerprint ([#3455](https://github.com/ReVanced/revanced-patches/issues/3455)) ([4505fa4](https://github.com/ReVanced/revanced-patches/commit/4505fa4138bb55c8957790239c01b8dda63d6cdd))
+
+# [4.12.0-dev.2](https://github.com/ReVanced/revanced-patches/compare/v4.12.0-dev.1...v4.12.0-dev.2) (2024-07-15)
+
+
+### Features
+
+* **YouTube:** Add `Bypass image region restrictions` patch ([#3442](https://github.com/ReVanced/revanced-patches/issues/3442)) ([765fab2](https://github.com/ReVanced/revanced-patches/commit/765fab2af2769349446cc0f2109343ef3bd8c621))
+
+# [4.12.0-dev.1](https://github.com/ReVanced/revanced-patches/compare/v4.11.1-dev.1...v4.12.0-dev.1) (2024-07-13)
+
+
+### Features
+
+* **SoundCloud:** Add `Enable offline sync` patch ([#3407](https://github.com/ReVanced/revanced-patches/issues/3407)) ([4de86c6](https://github.com/ReVanced/revanced-patches/commit/4de86c6407376bcd3cc0513a2f0707410b8d7ccd))
+
+## [4.11.1-dev.1](https://github.com/ReVanced/revanced-patches/compare/v4.11.0...v4.11.1-dev.1) (2024-07-12)
+
+
+### Bug Fixes
+
+* **YouTube - Hide keyword content:** Do not hide flyout menu ([687c9f7](https://github.com/ReVanced/revanced-patches/commit/687c9f7eb03cca5f7b3486f07f2e3453ebc77faf))
+
+## [4.11.1-dev.1](https://github.com/ReVanced/revanced-patches/compare/v4.11.0...v4.11.1-dev.1) (2024-07-12)
+
+
+### Bug Fixes
+
+* **YouTube - Hide keyword content:** Do not hide flyout menu ([687c9f7](https://github.com/ReVanced/revanced-patches/commit/687c9f7eb03cca5f7b3486f07f2e3453ebc77faf))
+
 # [4.11.0](https://github.com/ReVanced/revanced-patches/compare/v4.10.0...v4.11.0) (2024-07-11)
 
 
